@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-  id="pvr.iptvsimple"
+  id="pvr.diijaz.iptv"
   version="22.5.1"
-  name="IPTV Simple Client"
-  provider-name="nightik and Ross Nicholson">
+  name="Diijaz IPTV Client"
+  provider-name="A.Shahbal">
   <requires>@ADDON_DEPENDS@
     <import addon="inputstream.ffmpegdirect" minversion="22.0.0"/>
     <import addon="inputstream.adaptive" minversion="22.0.0"/>
